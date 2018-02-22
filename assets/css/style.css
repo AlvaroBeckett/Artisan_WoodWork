@@ -146,6 +146,15 @@ nav a:hover {
   display: none;
 }
 
+label span {
+  display: block;
+}
+
+input, textarea {
+  border: 3px solid #000;
+  width: 150%;
+}
+
 #about {
 	margin-top: 2em;
 
